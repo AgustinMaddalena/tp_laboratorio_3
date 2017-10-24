@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1508808643 source:c:\users\madda\desktop\tp-3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+
+1508808548 c:\users\madda\desktop\tp-3\tp_3_cascara\funciones.h
+
+1508808822 source:c:\users\madda\desktop\tp-3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+
